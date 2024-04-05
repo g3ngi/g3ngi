@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**g3ngi/g3ngi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=courier&pause=1000&color=AA56E4&random=false&width=435&lines=Hi%2C+gengi's+here+%3AD;Welcome+to+my+domain+!!!;currently%3A+mashing+keyboard;currently%3A+working+with+project+management+software)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
