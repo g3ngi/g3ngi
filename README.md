@@ -7,18 +7,18 @@
 
 🧙🏻 **About me**:
 - 🤓 I’m an active Cyber Security undergraduate student at BINUS University.
-- 📚 Currently learning next.js for software development and rust for red teaming 
+- 🚀 Currently learning next.js for software development and rust for red teaming 
 - 🪄 Passionate on: Reverse Engineering, Malware & C2 Development, Crafting Solutions
 
 
-🎵 **Tunes**:
+🎧 **Tunes**:
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=i8e3q2kvvpo617xjok3ufa2oe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-🌝 **Projects**:
+🌙 **Projects**:
 
-- `📟` **`NoTrust - Gadget`**<br>
+- `🦖` **`NoTrust - Gadget`**<br>
 \\___[ A Zero Trust security implementation on Apple environment (IOS).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `swift`
 
