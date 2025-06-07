@@ -5,10 +5,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&duration=2000&pause=500&color=8C6EF7&width=435&lines=hey%2C+welcome+to+my+domain+%5E+%5E;currently%3A+spamming+f5+in+IDA;currently%3A+bedrotting;currently%3A+mashing+keyboard;currently%3A+listening+to+Dealer)](https://git.io/typing-svg)
 
-🧙🏻 **About me**:
-- 🤓 I’m an active Cyber Security undergraduate student at BINUS University.
-- 🚀 Currently learning: next.js, rust 
-- 🪄 Passionate on: Reverse Engineering, Malware & C2 Development, Crafting Solutions
+🧙🏻 **About me**: I’m an active Cyber Security undergraduate student at BINUS University. Currently learning next.js and rust for software development and red teaming scenarios. I'm passionate on Reverse Engineering, Malware & C2 Development, Crafting Solutions and Red Teaming.
 
 
 🎧 **Tunes**:
