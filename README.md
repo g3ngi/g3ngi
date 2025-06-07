@@ -27,4 +27,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`
 
 ## `👨‍💻` Development Tools
-[![](https://skillicons.dev/icons?i=c,rust,python,typescript,bash,powershell,dotnet,nextjs,visualstudio,vscode,windows,linux,github,docker,)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cs,rust,python,typescript,bash,powershell,nextjs,visualstudio,vscode,windows,linux,github,docker,)](https://skillicons.dev)
