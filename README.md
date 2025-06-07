@@ -7,7 +7,7 @@
 
 🧙🏻 **About me**:
 - 🤓 I’m an active Cyber Security undergraduate student at BINUS University.
-- 🚀 Currently learning next.js for software development and rust for red teaming 
+- 🚀 Currently learning: next.js, rust 
 - 🪄 Passionate on: Reverse Engineering, Malware & C2 Development, Crafting Solutions
 
 
