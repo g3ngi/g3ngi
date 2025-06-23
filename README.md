@@ -22,6 +22,3 @@
 - `🤖` **`AI-Hoshino bot`**<br>
 \\___[ Simple implementation of discord bot using DL to detect malicious URL.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`
-
-## `👨‍💻` Development Tools
-[![](https://skillicons.dev/icons?i=c,cs,rust,python,typescript,bash,powershell,nextjs,visualstudio,vscode,windows,linux,github,docker,)](https://skillicons.dev)
