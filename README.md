@@ -18,7 +18,3 @@
 - `🦖` **`NoTrust - Gadget`**<br>
 \\___[ A Zero Trust security implementation on Apple environment (IOS).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `swift`
-
-- `🤖` **`AI-Hoshino bot`**<br>
-\\___[ Simple implementation of discord bot using DL to detect malicious URL.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`
